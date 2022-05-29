@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Guevara Gamboa</h1> <img src="https://c.tenor.com/fR49OunP59UAAAAC/killua-killua-zoldyck.gif" alt="killua-killua-zoldyck">
-<h3 align="center">I'm Student</h3>
+
 
 - 📫 How to reach me **jjguevarag@gmail.com**
 
