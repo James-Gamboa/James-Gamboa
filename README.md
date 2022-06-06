@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Guevara Gamboa</h1> <img align ="center"  src="https://tenor.com/es/ver/dark-souls-bonfire-rest-warm-gif-16368928" alt="killua-killua-zoldyck">
+<h1 align="center">Hi 👋, I'm James Guevara Gamboa</h1> <div class="tenor-gif-embed" data-postid="16368928" data-share-method="host" data-aspect-ratio="2.07792" data-width="100%"><a href="https://tenor.com/view/dark-souls-bonfire-rest-warm-gif-16368928">Dark Souls Bonfire GIF</a>from <a href="https://tenor.com/search/dark+souls-gifs">Dark Souls GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 - 📫 How to reach me **jjguevarag@gmail.com**
