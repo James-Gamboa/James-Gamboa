@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Guevara Gamboa</h1> <img align ="center"  src="https://tenor.com/es/ver/dark-souls-bonfire-rest-warm-gif-16368928" alt="Souls">
+<h1 align="center">Hi 👋, I'm James Guevara Gamboa</h1> <img align ="center"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F841610249122120866%2Fsent%2F%3Finvite_code%3Da27213cdaf934132ac1279beec541ee6%26sender%3D841610386523373785%26sfo%3D1&psig=AOvVaw2lnzfK0Stc4CXTdzeINs7T&ust=1654566165818000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCB5LbZl_gCFQAAAAAdAAAAABAN" alt="killua-killua-zoldyck">
 
 
 - 📫 How to reach me **jjguevarag@gmail.com**
