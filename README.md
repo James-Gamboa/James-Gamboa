@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Guevara Gamboa</h1> <div class="tenor-gif-embed" data-postid="16368928" data-share-method="host" data-aspect-ratio="2.07792" data-width="100%"><a href="https://tenor.com/view/dark-souls-bonfire-rest-warm-gif-16368928">Dark Souls Bonfire GIF</a>from <a href="https://tenor.com/search/dark+souls-gifs">Dark Souls GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<h1 align="center">Hi 👋, I'm James Guevara Gamboa</h1>  <div class="tenor-gif-embed" data-postid="16049545" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/fma-fullmetal-alchemist-brotherhood-hahah-sorry-gif-16049545">Fma Fullmetal Alchemist GIF</a>from <a href="https://tenor.com/search/fma-gifs">Fma GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 - 📫 How to reach me **jjguevarag@gmail.com**
