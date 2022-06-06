@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Guevara Gamboa</h1> <img align ="center"  src="https://c.tenor.com/fR49OunP59UAAAAC/killua-killua-zoldyck.gif" alt="killua-killua-zoldyck">
+<h1 align="center">Hi 👋, I'm James Guevara Gamboa</h1> <img align ="center"  src="https://tenor.com/es/ver/dark-souls-bonfire-rest-warm-gif-16368928" alt="Souls">
 
 
 - 📫 How to reach me **jjguevarag@gmail.com**
