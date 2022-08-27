@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Guevara Gamboa</h1>
+Hi 👋, I'm James Guevara Gamboa
 ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/278b42da-de8f-48a3-9160-9e37cb8f71d3/d6eyx3e-e577bffd-1cef-44b8-aec9-657aeecddb56.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3OGI0MmRhLWRlOGYtNDhhMy05MTYwLTllMzdjYjhmNzFkM1wvZDZleXgzZS1lNTc3YmZmZC0xY2VmLTQ0YjgtYWVjOS02NTdhZWVjZGRiNTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vJcw5ni18OA8vUB-nkXqyASbZD0LDkik1MeJQq-wPXI)
 
 <p>I'm James and I'm from Costa Rica. Taking web development as a profession not only fills my pocket but also my heart because it has been my passion since my adolescence, this allowed me to develop in the field and discover new passions. Persistent, creative and passionate about continuing to work personally and professionally, discovering new challenges and goals.</p>
