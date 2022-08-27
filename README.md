@@ -3,11 +3,19 @@
 
 I'm James and I'm from Costa Rica. Taking web development as a profession not only fills my pocket but also my heart because it has been my passion since my adolescence, this allowed me to develop in the field and discover new passions. Persistent, creative and passionate about continuing to work personally and professionally, discovering new challenges and goals.
 
-Skills:  JS / HTML / CSS
+- 📫 How to reach me **jjguevarag@gmail.com**
 
+<h3 align="left">Contact me:</h3>
+<p align="left">
+<a href="https://twitter.com/james_gg8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="james_gg8" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/james-guevara-gamboa-848b86167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james guevara gamboa" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages:</h3>
+<p align="left">  </a> <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/James-Gamboa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/james-guevara-gamboa-848b86167//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/james_gg8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](jjguevarag@gmail.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James-Gamboa)](https://github.com/anuraghazra/github-readme-stats)
 
