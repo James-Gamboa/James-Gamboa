@@ -3,13 +3,12 @@
 
 I'm James and I'm from Costa Rica. Taking web development as a profession not only fills my pocket but also my heart because it has been my passion since my adolescence, this allowed me to develop in the field and discover new passions. Persistent, creative and passionate about continuing to work personally and professionally, discovering new challenges and goals.
 
-- 📫 How to reach me **jjguevarag@gmail.com**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://twitter.com/james_gg8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="james_gg8" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/james-guevara-gamboa-848b86167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james guevara gamboa" height="30" width="40" /></a>
-<a href="mailto:jjguevarag@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a> 
+<a href="mailto:jjguevarag@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" </br> /></a> 
 </p>
 
 <h3 align="left">Languages:</h3>
