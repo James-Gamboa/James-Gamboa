@@ -8,7 +8,7 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/james-guevara-gamboa-848b86167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james guevara gamboa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/james-guevara-gamboa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james guevara gamboa" height="30" width="40" /></a>
 <a href="mailto:jjguevarag@gmail.com"><img align="center"src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a> 
 </p>
 
