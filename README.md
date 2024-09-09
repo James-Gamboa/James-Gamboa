@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Guevara Gamboa</h1>
 
-<img>![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/278b42da-de8f-48a3-9160-9e37cb8f71d3/d6eyx3e-e577bffd-1cef-44b8-aec9-657aeecddb56.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3OGI0MmRhLWRlOGYtNDhhMy05MTYwLTllMzdjYjhmNzFkM1wvZDZleXgzZS1lNTc3YmZmZC0xY2VmLTQ0YjgtYWVjOS02NTdhZWVjZGRiNTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vJcw5ni18OA8vUB-nkXqyASbZD0LDkik1MeJQq-wPXI)</img>
 - 👨‍💻 All of my projects are available at [https://james-gamboa.vercel.app/](https://james-gamboa.vercel.app/)
 
 <h3 align="left">Contact me:</h3>
