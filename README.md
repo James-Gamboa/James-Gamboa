@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Guevara Gamboa</h1>
 
-- 👨‍💻 All of my projects are available at [https://james-gamboa.vercel.app/](https://james-gamboa.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://james-gamboa.vercel.app/en](https://james-gamboa.vercel.app/en)
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
