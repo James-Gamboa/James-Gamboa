@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680">
+<defs>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+  </linearGradient>
+  
+</defs>
+<style>
+  text{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace}
+  .f{opacity:0;animation:fade .7s ease forwards}
+  .blink{animation:blink 1s steps(1) infinite}
+  .pulse{animation:pulse 2.4s ease-in-out infinite}
+  .float{animation:float 6s ease-in-out infinite}
+  @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  @keyframes blink{50%{opacity:0}}
+  @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+  @media (prefers-reduced-motion:reduce){.f,.blink,.pulse,.float{animation:none;opacity:1}}
+</style>
+
+<rect x="1" y="1" width="998" height="678" rx="14" fill="#0f1630" stroke="#25305a"/>
+<path d="M1 15a14 14 0 0 1 14-14h970a14 14 0 0 1 14 14v25H1z" fill="#141d3d"/>
+<circle cx="24" cy="21" r="6" fill="#ff5f57"/><circle cx="44" cy="21" r="6" fill="#febc2e"/><circle cx="64" cy="21" r="6" fill="#28c840"/>
+<text x="500" y="26" text-anchor="middle" font-size="13" fill="#8b95b5">git log --graph experience</text>
+<rect x="-200" y="39" width="200" height="2" fill="url(#edge)">
+  <animate attributeName="x" from="-200" to="1000" dur="4s" repeatCount="indefinite"/>
+</rect>
+<line x1="56" y1="74" x2="56" y2="640" stroke="#25305a" stroke-width="3"/>
+<line x1="56" y1="74" x2="56" y2="640" stroke="url(#brand)" stroke-width="3" stroke-dasharray="14 10">
+  <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="1.6s" repeatCount="indefinite"/>
+</line><g class="f" style="animation-delay:0.30s"><circle cx="56" cy="75" r="8" fill="#0f1630" stroke="#22d3ee" stroke-width="3"/>
+<circle cx="56" cy="75" r="14" fill="none" stroke="#22d3ee" stroke-width="1.5" class="pulse"/>
+<text x="84" y="80" font-size="14" fill="#fbbf24">8f3c2a1</text><rect x="156" y="64" width="150.4" height="22" rx="11" fill="none" stroke="#22d3ee"/><text x="164" y="80" font-size="13" fill="#22d3ee">HEAD → freelance</text><text x="960" y="80" text-anchor="end" font-size="14" fill="#8b95b5">Aug 2024 — present</text>
+<text x="84" y="112" font-size="20" font-weight="700" fill="#e6edf3">Freelance Frontend Developer</text>
+<text x="84" y="136" font-size="14" fill="#22d3ee">Self-employed · real clients</text></g>
+<g class="f" style="animation-delay:0.65s"><text x="96" y="166" font-size="14" fill="#8b95b5"><tspan fill="#22d3ee">+ </tspan>Corporate, commercial and real estate websites for real clients</text></g>
+<g class="f" style="animation-delay:0.77s"><text x="96" y="192" font-size="14" fill="#8b95b5"><tspan fill="#22d3ee">+ </tspan>Next.js + TypeScript + Strapi (headless CMS) + Tailwind CSS</text></g>
+<g class="f" style="animation-delay:0.89s"><text x="96" y="218" font-size="14" fill="#8b95b5"><tspan fill="#22d3ee">+ </tspan>Dynamic content, performance optimization and SEO best practices</text></g>
+<g class="f" style="animation-delay:1.01s"><text x="96" y="244" font-size="14" fill="#8b95b5"><tspan fill="#22d3ee">+ </tspan>Escazú Village · C3 Cariari · Plaza Tempo · Aleste · Avenida Escazú · Savia</text></g>
+<g class="f" style="animation-delay:1.13s"><circle cx="56" cy="299" r="8" fill="#0f1630" stroke="#a78bfa" stroke-width="3"/>
+<circle cx="56" cy="299" r="14" fill="none" stroke="#a78bfa" stroke-width="1.5" class="pulse"/>
+<text x="84" y="304" font-size="14" fill="#fbbf24">5d91e07</text><text x="960" y="304" text-anchor="end" font-size="14" fill="#8b95b5">Jan 2024 — Jul 2024</text>
+<text x="84" y="336" font-size="20" font-weight="700" fill="#e6edf3">Front End &amp; WordPress Developer</text>
+<text x="84" y="360" font-size="14" fill="#a78bfa">TechPro Solutions</text></g>
+<g class="f" style="animation-delay:1.48s"><text x="96" y="390" font-size="14" fill="#8b95b5"><tspan fill="#a78bfa">+ </tspan>Responsive WordPress sites with custom themes and plugins</text></g>
+<g class="f" style="animation-delay:1.60s"><text x="96" y="416" font-size="14" fill="#8b95b5"><tspan fill="#a78bfa">+ </tspan>UI/UX design and implementation focused on usability</text></g>
+<g class="f" style="animation-delay:1.72s"><text x="96" y="442" font-size="14" fill="#8b95b5"><tspan fill="#a78bfa">+ </tspan>Client collaboration, technical consulting, SEO and agile delivery</text></g>
+<g class="f" style="animation-delay:1.84s"><circle cx="56" cy="497" r="8" fill="#0f1630" stroke="#f472b6" stroke-width="3"/>
+<circle cx="56" cy="497" r="14" fill="none" stroke="#f472b6" stroke-width="1.5" class="pulse"/>
+<text x="84" y="502" font-size="14" fill="#fbbf24">2b7a4c9</text><text x="960" y="502" text-anchor="end" font-size="14" fill="#8b95b5">Mar 2023 — Dec 2023</text>
+<text x="84" y="534" font-size="20" font-weight="700" fill="#e6edf3">Front End Developer</text>
+<text x="84" y="558" font-size="14" fill="#f472b6">ContraLuz · Remote</text></g>
+<g class="f" style="animation-delay:2.19s"><text x="96" y="588" font-size="14" fill="#8b95b5"><tspan fill="#f472b6">+ </tspan>Next.js + ISR landing page scoring 100% Lighthouse performance</text></g>
+<g class="f" style="animation-delay:2.31s"><text x="96" y="614" font-size="14" fill="#8b95b5"><tspan fill="#f472b6">+ </tspan>Led the migration to Shopify and launched the e-commerce platform</text></g>
+<g class="f" style="animation-delay:2.43s"><text x="96" y="640" font-size="14" fill="#8b95b5"><tspan fill="#f472b6">+ </tspan>Shopping cart, user tracking and an SSR admin panel for content</text></g>
+</svg>
