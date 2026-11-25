@@ -183,7 +183,7 @@ button("link-email.svg", "@ EMAIL", C.pink);
     {
       hash: "8f3c2a1",
       branch: "HEAD → freelance",
-      role: "Freelance Frontend Developer",
+      role: "Freelance Full Stack Developer",
       org: "Self-employed · real clients",
       date: "Aug 2024 — present",
       color: C.cyan,
