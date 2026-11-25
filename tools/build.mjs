@@ -376,47 +376,44 @@ card("project-4.svg", {
   speed: 6.5,
 });
 
-// ---------- client work ----------
+// ---------- client work: one linked card per site ----------
+const CLIENT_SITES = [
+  ["Avenida Escazú", "avenidaescazu.com", "Next.js · Strapi · GraphQL"],
+  ["Savia", "savia.cr", "Next.js · Strapi · GraphQL"],
+  ["C3 Cariari", "c3.cr", "Next.js · Strapi · GraphQL"],
+  ["Escazú Village", "escazuvillage.com", "Next.js · Strapi · GraphQL"],
+  ["Plaza Tempo", "plazatempo.com", "Next.js · Strapi · GraphQL"],
+  ["Al Este", "aleste.cr", "Next.js · Strapi · GraphQL"],
+  ["Portafolio Inmobiliario", "portafolio.cr", "Next.js · Strapi · GraphQL"],
+  ["Lincoln Plaza", "lincolnplaza.cr", "Next.js · Strapi · GraphQL"],
+  ["Torre Universal", "torreuniversal.com", "Next.js · Strapi · GraphQL"],
+  ["La Laguna", "lalaguna.cr", "Next.js · Strapi · GraphQL"],
+  ["El Cedral", "centrocorporativoelcedral.com", "Next.js · React"],
+  ["Hospital La Católica", "hilc.cr", "website"],
+  ["Fresh Market", "freshmarket.co.cr", "WordPress · Elementor"],
+];
 {
-  const NEXT = "Next.js · Strapi · GraphQL";
-  const sites = [
-    ["Avenida Escazú", "avenidaescazu.com", NEXT],
-    ["Savia", "savia.cr", NEXT],
-    ["C3 Cariari Corporate Center", "c3.cr", NEXT],
-    ["Escazú Village", "escazuvillage.com", NEXT],
-    ["Plaza Tempo", "plazatempo.com", NEXT],
-    ["Al Este", "aleste.cr", NEXT],
-    ["Portafolio Inmobiliario", "portafolio.cr", NEXT],
-    ["La Laguna", "lalaguna.cr", NEXT],
-    ["Lincoln Plaza", "", NEXT],
-    ["Torre Universal", "torreuniversal.com", NEXT],
-    ["Cedral", "", "Next.js · React"],
-    ["Fresh Market", "freshmarket.co.cr", "WordPress"],
-    ["Hospital La Católica", "", "web"],
-  ];
-  const parts = [`<text x="40" y="76" font-size="16" fill="${C.green}">➜</text><text x="64" y="76" font-size="16" fill="${C.cyan}">~</text>`];
-  const cmd = "git remote -v  # client sites I've shipped";
-  parts.push(typed(84, 76, cmd, { begin: 0.3 }));
-  let t = typedEnd(cmd, 0.3) + 0.2;
   const colors = [C.cyan, C.violet, C.pink, C.amber, C.green];
-  let y = 116;
-  sites.forEach(([name, domain, stack], i) => {
+  const w = 333;
+  const h = 96;
+  CLIENT_SITES.forEach(([name, domain, stack], i) => {
     const c = colors[i % colors.length];
-    parts.push(
-      fade(
-        t,
-        `<circle cx="48" cy="${y - 5}" r="4" fill="${c}"/>
-<text x="64" y="${y}" font-size="15" font-weight="700" fill="${C.text}">${esc(name)}</text>
-<text x="400" y="${y}" font-size="14" fill="${domain ? c : C.dim}">${esc(domain || "—")}</text>
-<text x="${W - 40}" y="${y}" text-anchor="end" font-size="13" fill="${C.muted}">${esc(stack)}</text>`
-      )
-    );
-    t += 0.1;
-    y += 30;
+    const content = `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">
+<style>text{font-family:${FONT}}.pulse{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}@media (prefers-reduced-motion:reduce){.pulse{animation:none}}</style>
+<rect x="5" y="5" width="${w - 10}" height="${h - 10}" rx="12" fill="${C.panel}" stroke="${C.border}"/>
+<rect x="5" y="5" width="${w - 10}" height="${h - 10}" rx="12" fill="none" stroke="${c}" stroke-width="1.5" stroke-dasharray="90 ${2 * (w + h)}">
+  <animate attributeName="stroke-dashoffset" from="0" to="-${2 * (w + h)}" dur="${5 + (i % 4)}s" repeatCount="indefinite"/>
+</rect>
+<circle cx="24" cy="31" r="4" fill="${c}" class="pulse" style="animation-delay:${(i % 5) * 0.3}s"/>
+<text x="36" y="36" font-size="15" font-weight="700" fill="${C.text}">${esc(name)}</text>
+<text x="20" y="60" font-size="12.5" fill="${c}">↗ ${esc(domain)}</text>
+<text x="20" y="80" font-size="11" fill="${C.muted}">${esc(stack)}</text>
+</svg>
+`;
+    write(`site-${String(i + 1).padStart(2, "0")}.svg`, content);
   });
-  const H = y + 4;
-  write("client-work.svg", svg(H, frame(H, "~/client-work — zsh", parts.join("\n"))));
 }
+sectionTitle("title-clients.svg", "git remote -v", "// client sites I've shipped");
 
 // ---------- stack ----------
 {
