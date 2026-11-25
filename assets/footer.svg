@@ -22,9 +22,9 @@
 </style>
 <rect width="1000" height="150" rx="14" fill="#0b1020"/>
 <path d="M0 110 Q 250 84 500 110 T 1000 110 V 150 H 0 Z" fill="#a78bfa" opacity="0.35"><animate attributeName="d" values="M0 110 Q 250 84 500 110 T 1000 110 V 150 H 0 Z;M0 110 Q 250 136 500 110 T 1000 110 V 150 H 0 Z;M0 110 Q 250 84 500 110 T 1000 110 V 150 H 0 Z" dur="7s" repeatCount="indefinite"/></path><path d="M0 110 Q 250 92 500 110 T 1000 110 V 150 H 0 Z" fill="#22d3ee" opacity="0.3"><animate attributeName="d" values="M0 110 Q 250 92 500 110 T 1000 110 V 150 H 0 Z;M0 110 Q 250 128 500 110 T 1000 110 V 150 H 0 Z;M0 110 Q 250 92 500 110 T 1000 110 V 150 H 0 Z" dur="5s" repeatCount="indefinite"/></path>
-<clipPath id="t7"><rect x="324" y="28" width="0" height="32">
+<clipPath id="t8"><rect x="324" y="28" width="0" height="32">
   <animate attributeName="width" values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;360" calcMode="discrete" begin="0.3s" dur="1.32s" fill="freeze"/>
 </rect></clipPath>
-<text x="326" y="52" font-size="20" font-weight="400" fill="#e6edf3" clip-path="url(#t7)">return &lt;ThanksForVisiting /&gt;;</text>
+<text x="326" y="52" font-size="20" font-weight="400" fill="#e6edf3" clip-path="url(#t8)">return &lt;ThanksForVisiting /&gt;;</text>
 <g class="f" style="animation-delay:1.82s"><text x="500" y="84" text-anchor="middle" font-size="13" fill="#8b95b5">// open to new opportunities — let's build something together</text></g>
 </svg>

@@ -263,12 +263,26 @@ button("link-email.svg", "@ EMAIL", C.pink);
   const rows = [
     { t: "@james/education@2025", c: C.text, b: true },
     { t: "├─┬ fwd-costa-rica", note: "Full Stack Web Developer · Jan — Jul 2025", c: C.cyan },
-    { t: "├─┬ cetav", note: "Web Design & Development Technician · 2022 — 2024", c: C.violet },
+    { t: "├─┬ cetav-la-libertad", note: "Web Design & Development · 2,880 h · Jan 2024", c: C.violet },
+    { t: "├─┬ ina", note: "Web Design & Development, technician level · 928 h · Jan 2024", c: C.violet },
+    { t: "├─┬ anthropic-academy", note: "Anthropic · May 2026", c: C.orange },
+    { t: "│ ├── claude-code-in-action", c: C.text },
+    { t: "│ ├── claude-code-101", c: C.text },
+    { t: "│ ├── building-with-the-claude-api", c: C.text },
+    { t: "│ ├── introduction-to-model-context-protocol", c: C.text },
+    { t: "│ ├── ai-fluency-framework-and-foundations", c: C.text },
+    { t: "│ ├── claude-101", c: C.text },
+    { t: "│ └── introduction-to-claude-cowork", c: C.text },
     { t: "└─┬ certifications", c: C.pink },
-    { t: "  ├── responsive-web-design", note: "300 hours", c: C.text },
-    { t: "  ├── javascript-algorithms-and-data-structures", note: "300 hours", c: C.text },
-    { t: "  ├── angular-12-dotnet-core-web-api-mysql", c: C.text },
-    { t: "  └── introduction-to-cybersecurity", c: C.text },
+    { t: "  ├── n8n-and-ai-automation", note: "Raiola Networks · 2026", c: C.text },
+    { t: "  ├── javascript-algorithms-and-data-structures", note: "300 h · 2023", c: C.text },
+    { t: "  ├── introduction-to-cybersecurity", note: "2023", c: C.text },
+    { t: "  ├── angular-12-dotnet-core-web-api-mysql", note: "2023", c: C.text },
+    { t: "  ├── responsive-web-design", note: "300 h · 2022", c: C.text },
+    { t: "  ├── universidad-html", note: "Udemy · 2021", c: C.text },
+    { t: "  ├── intro-to-web-development-i-and-ii", note: "Google Actívate · 80 h · 2021", c: C.text },
+    { t: "  ├── cybersecurity-essentials", note: "Cisco Networking Academy · 2020", c: C.text },
+    { t: "  └── get-connected", note: "Cisco Networking Academy · 2020", c: C.text },
     { t: "" },
     { t: "★ achievement", note: "Human Brush (Belgium): animated the human figure in a projection", c: C.amber },
   ];
@@ -330,37 +344,79 @@ ${tags.join("")}
   write(file, content);
 };
 card("project-1.svg", {
-  name: "Real Estate Portfolio",
-  kind: "web app · real estate",
-  desc: ["Website to browse and manage properties, with", "dynamic projects rendering, SEO and responsive UI."],
-  tags: ["Next.js", "TypeScript", "Tailwind", "Strapi"],
+  name: "Avenida Escazú",
+  kind: "client work · avenidaescazu.com",
+  desc: ["Bilingual (ES/EN) site on the Next.js App Router,", "with all content managed in Strapi via GraphQL."],
+  tags: ["Next.js", "GraphQL", "Apollo", "Strapi"],
   color: C.cyan,
   speed: 5,
 });
 card("project-2.svg", {
-  name: "Novus ERP",
-  kind: "enterprise · dashboard",
-  desc: ["Enterprise solution to manage and visualize", "corporate information. Scalable, fast, maintainable."],
+  name: "Savia",
+  kind: "client work · savia.cr",
+  desc: ["Bilingual site with about, impact, talent, blog and", "a contact form that stores leads in the CMS."],
+  tags: ["Next.js", "Apollo", "Strapi", "Tailwind"],
+  color: C.pink,
+  speed: 5.5,
+});
+card("project-3.svg", {
+  name: "Real Estate Portfolio",
+  kind: "client work · real estate",
+  desc: ["Website to browse and manage properties, with", "dynamic projects rendering, SEO and responsive UI."],
   tags: ["Next.js", "TypeScript", "Tailwind", "Strapi"],
   color: C.violet,
   speed: 6,
 });
-card("project-3.svg", {
-  name: "Audiophile",
-  kind: "e-commerce · audio store",
-  desc: ["Headless CMS shopping experience with Google", "Analytics metrics and a fully responsive design."],
-  tags: ["Next.js", "React", "TypeScript", "Tailwind"],
-  color: C.pink,
-  speed: 5.5,
-});
 card("project-4.svg", {
-  name: "Travel Haven",
-  kind: "web · travel",
-  desc: ["Destinations and stays from REST APIs, plus a", "custom API for dynamic content. Mobile-first."],
-  tags: ["JavaScript", "Sass", "REST APIs", "HTML/CSS"],
+  name: "Novus ERP",
+  kind: "client work · enterprise",
+  desc: ["Enterprise solution to manage and visualize", "corporate information. Scalable, fast, maintainable."],
+  tags: ["Next.js", "TypeScript", "Tailwind", "Strapi"],
   color: C.amber,
   speed: 6.5,
 });
+
+// ---------- client work ----------
+{
+  const NEXT = "Next.js · Strapi · GraphQL";
+  const sites = [
+    ["Avenida Escazú", "avenidaescazu.com", NEXT],
+    ["Savia", "savia.cr", NEXT],
+    ["C3 Cariari Corporate Center", "c3.cr", NEXT],
+    ["Escazú Village", "escazuvillage.com", NEXT],
+    ["Plaza Tempo", "plazatempo.com", NEXT],
+    ["Al Este", "aleste.cr", NEXT],
+    ["Portafolio Inmobiliario", "portafolio.cr", NEXT],
+    ["La Laguna", "lalaguna.cr", NEXT],
+    ["Lincoln Plaza", "", NEXT],
+    ["Torre Universal", "torreuniversal.com", NEXT],
+    ["Cedral", "", "Next.js · React"],
+    ["Fresh Market", "freshmarket.co.cr", "WordPress"],
+    ["Hospital La Católica", "", "web"],
+  ];
+  const parts = [`<text x="40" y="76" font-size="16" fill="${C.green}">➜</text><text x="64" y="76" font-size="16" fill="${C.cyan}">~</text>`];
+  const cmd = "git remote -v  # client sites I've shipped";
+  parts.push(typed(84, 76, cmd, { begin: 0.3 }));
+  let t = typedEnd(cmd, 0.3) + 0.2;
+  const colors = [C.cyan, C.violet, C.pink, C.amber, C.green];
+  let y = 116;
+  sites.forEach(([name, domain, stack], i) => {
+    const c = colors[i % colors.length];
+    parts.push(
+      fade(
+        t,
+        `<circle cx="48" cy="${y - 5}" r="4" fill="${c}"/>
+<text x="64" y="${y}" font-size="15" font-weight="700" fill="${C.text}">${esc(name)}</text>
+<text x="400" y="${y}" font-size="14" fill="${domain ? c : C.dim}">${esc(domain || "—")}</text>
+<text x="${W - 40}" y="${y}" text-anchor="end" font-size="13" fill="${C.muted}">${esc(stack)}</text>`
+      )
+    );
+    t += 0.1;
+    y += 30;
+  });
+  const H = y + 4;
+  write("client-work.svg", svg(H, frame(H, "~/client-work — zsh", parts.join("\n"))));
+}
 
 // ---------- stack ----------
 {

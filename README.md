@@ -10,14 +10,16 @@
 
 <img src="./assets/title-projects.svg" alt="Projects" width="100%">
 
-<a href="https://james-gamboa.vercel.app/en"><img src="./assets/project-1.svg" alt="Real Estate Portfolio: Next.js, TypeScript, Tailwind, Strapi" width="50%"></a><a href="https://james-gamboa.vercel.app/en"><img src="./assets/project-2.svg" alt="Novus ERP: Next.js, TypeScript, Tailwind, Strapi" width="50%"></a>
-<a href="https://james-gamboa.vercel.app/en"><img src="./assets/project-3.svg" alt="Audiophile: Next.js, React, TypeScript, Tailwind" width="50%"></a><a href="https://james-gamboa.vercel.app/en"><img src="./assets/project-4.svg" alt="Travel Haven: JavaScript, Sass, REST APIs" width="50%"></a>
+<a href="https://www.avenidaescazu.com"><img src="./assets/project-1.svg" alt="Avenida Escazú: bilingual Next.js site with Strapi via GraphQL" width="50%"></a><a href="https://www.savia.cr"><img src="./assets/project-2.svg" alt="Savia: bilingual Next.js site with Strapi and lead form" width="50%"></a>
+<a href="https://www.portafolio.cr"><img src="./assets/project-3.svg" alt="Real Estate Portfolio: Next.js, TypeScript, Tailwind, Strapi" width="50%"></a><a href="https://james-gamboa.vercel.app/en"><img src="./assets/project-4.svg" alt="Novus ERP: Next.js, TypeScript, Tailwind, Strapi" width="50%"></a>
+
+<img src="./assets/client-work.svg" alt="Client sites: Avenida Escazú, Savia, C3 Cariari Corporate Center, Escazú Village, Plaza Tempo, Al Este, Portafolio Inmobiliario, La Laguna, Lincoln Plaza, Torre Universal, Cedral, Fresh Market (WordPress), Hospital La Católica." width="100%">
 
 <img src="./assets/title-stack.svg" alt="Tech stack" width="100%">
 
 <img src="./assets/stack.svg" alt="Stack — Frontend: React, Next.js, TypeScript, JavaScript, Astro, Tailwind CSS, Sass, CSS Modules, HTML5. Backend: Node.js, Express, GraphQL, Apollo, REST APIs, Python. Data: MongoDB, MySQL, SQL. CMS & e-commerce: Strapi, Headless CMS, WordPress, Shopify, Drupal. Tools: Git, Docker, Figma, UI/UX, SEO." width="100%">
 
-<img src="./assets/education.svg" alt="Education: FWD Costa Rica, Full Stack Web Developer (2025); CETAV, Web Design & Development Technician (2022–2024); certifications in Responsive Web Design, JavaScript Algorithms and Data Structures, Angular 12 + .NET Core + MySQL, Introduction to Cybersecurity. Achievement: Human Brush (Belgium)." width="100%">
+<img src="./assets/education.svg" alt="Education: FWD Costa Rica, Full Stack Web Developer (2025); CETAV La Libertad, Web Design &amp; Development, 2,880 hours (2024); INA, Web Design &amp; Development technician, 928 hours (2024). Anthropic Academy (May 2026): Claude Code in Action, Claude Code 101, Building with the Claude API, Introduction to Model Context Protocol, AI Fluency: Framework &amp; Foundations, Claude 101, Introduction to Claude Cowork. Certifications: n8n and AI automation (Raiola Networks), JavaScript Algorithms and Data Structures, Introduction to Cybersecurity, Angular 12 + .NET Core + MySQL, Responsive Web Design, Universidad HTML (Udemy), Introduction to Web Development I and II (Google Actívate), Cybersecurity Essentials and Get Connected (Cisco Networking Academy). Achievement: Human Brush (Belgium)." width="100%">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/James-Gamboa/James-Gamboa/output/github-snake-dark.svg">
