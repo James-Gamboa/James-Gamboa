@@ -391,7 +391,7 @@ const CLIENT_SITES = [
   ["El Cedral", "centrocorporativoelcedral.com", "Next.js · React"],
   ["Hospital La Católica", "hilc.cr", "website"],
   ["Fresh Market", "freshmarket.co.cr", "WordPress · Elementor"],
-  ["ContraLuz", "contraluz.cr", "Next.js · Shopify"],
+  ["ContraLuz", "contraluz.cr", "Shopify · Liquid"],
   ["PolkaCR", "polkacr.com", "Shopify · Liquid"],
 ];
 {

@@ -7,5 +7,5 @@
 <circle cx="24" cy="31" r="4" fill="#fbbf24" class="pulse" style="animation-delay:0.8999999999999999s"/>
 <text x="36" y="36" font-size="15" font-weight="700" fill="#e6edf3">ContraLuz</text>
 <text x="20" y="60" font-size="12.5" fill="#fbbf24">↗ contraluz.cr</text>
-<text x="20" y="80" font-size="11" fill="#8b95b5">Next.js · Shopify</text>
+<text x="20" y="80" font-size="11" fill="#8b95b5">Shopify · Liquid</text>
 </svg>
