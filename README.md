@@ -20,6 +20,8 @@
 <a href="https://www.portafolio.cr"><img src="./assets/site-07.svg?v=6" alt="Portafolio Inmobiliario" width="33%"></a><a href="https://www.lincolnplaza.cr/es"><img src="./assets/site-08.svg?v=6" alt="Lincoln Plaza" width="33%"></a><a href="https://www.torreuniversal.com"><img src="./assets/site-09.svg?v=6" alt="Torre Universal" width="33%"></a>
 <a href="https://lalaguna.cr"><img src="./assets/site-10.svg?v=6" alt="La Laguna" width="33%"></a><a href="https://www.centrocorporativoelcedral.com/en"><img src="./assets/site-11.svg?v=6" alt="El Cedral" width="33%"></a><a href="https://hilc.cr"><img src="./assets/site-12.svg?v=6" alt="Hospital La Católica" width="33%"></a>
 <a href="https://freshmarket.co.cr"><img src="./assets/site-13.svg?v=6" alt="Fresh Market" width="33%"></a><a href="https://contraluz.cr"><img src="./assets/site-14.svg?v=6" alt="ContraLuz" width="33%"></a><a href="https://www.polkacr.com"><img src="./assets/site-15.svg?v=6" alt="PolkaCR" width="33%"></a>
+<a href="https://www.novussoftware.la/es"><img src="./assets/site-16.svg?v=6" alt="Novus ERP" width="33%"></a><a href="https://blvdsabana-website-d1361128cbe4.herokuapp.com/"><img src="./assets/site-17.svg?v=6" alt="BLVD Sabana" width="33%"></a><a href="https://bahiapapagayo.com"><img src="./assets/site-18.svg?v=6" alt="Bahía Papagayo" width="33%"></a>
+<a href="https://claracr.com"><img src="./assets/site-19.svg?v=6" alt="Clara" width="33%"></a><a href="https://epic-corporate.com"><img src="./assets/site-20.svg?v=6" alt="Epic Corporate" width="33%"></a><a href="https://greenvalley.co.cr"><img src="./assets/site-21.svg?v=6" alt="Green Valley" width="33%"></a>
 
 <img src="./assets/title-stack.svg?v=6" alt="Tech stack" width="100%">
 

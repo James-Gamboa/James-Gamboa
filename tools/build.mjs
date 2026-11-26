@@ -393,6 +393,12 @@ const CLIENT_SITES = [
   ["Fresh Market", "freshmarket.co.cr", "WordPress · Elementor"],
   ["ContraLuz", "contraluz.cr", "Shopify · Liquid"],
   ["PolkaCR", "polkacr.com", "Shopify · Liquid"],
+  ["Novus ERP", "novussoftware.la", "Next.js · Strapi · GraphQL"],
+  ["BLVD Sabana", "blvdsabana-website…herokuapp.com", "Next.js · Strapi · GraphQL"],
+  ["Bahía Papagayo", "bahiapapagayo.com", "Astro · Sanity"],
+  ["Clara", "claracr.com", "Next.js · TypeScript · Tailwind"],
+  ["Epic Corporate", "epic-corporate.com", "WordPress"],
+  ["Green Valley", "greenvalley.co.cr", "WordPress"],
 ];
 {
   const colors = [C.cyan, C.violet, C.pink, C.amber, C.green];
